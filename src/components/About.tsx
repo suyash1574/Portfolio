@@ -15,7 +15,7 @@ export const About: React.FC = () => {
             <div className="relative z-10 transform group-hover:scale-105 transition-transform duration-500">
               <div className="relative">
                 <img
-                  src="D:\Projects\0 build using Ai\project-bolt-sb1-7bbta3p3\project\src\components\hero.jpg"
+                  src="project-bolt-sb1-7bbta3p3\project\src\components\hero.jpg"
                   alt="Suyash Zinjurke"
                   className="w-full max-w-md mx-auto rounded-3xl shadow-2xl border-4 border-white dark:border-gray-700"
                 />
