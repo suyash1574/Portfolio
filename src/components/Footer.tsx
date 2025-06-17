@@ -15,7 +15,7 @@ export const Footer: React.FC = () => {
               <span className="text-xl font-bold">Suyash Zinjurke</span>
             </div>
             <p className="text-gray-400 mb-4">
-              Engineering logic, dharma soul, AI vision. Building bridges between 
+              Engineering logic, AI vision. Building bridges between 
               technology and service.
             </p>
           </div>
@@ -46,7 +46,7 @@ export const Footer: React.FC = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Get In Touch</h3>
             <div className="space-y-2 text-gray-400">
-              <p>suyash.zinjurke@gmail.com</p>
+              <p>zinjurke77h@gmail.com</p>
               <p>Maharashtra, India</p>
               <p>Available for freelance projects</p>
             </div>

@@ -68,7 +68,7 @@ export const Contact: React.FC = () => {
                   </div>
                   <div>
                     <p className="text-gray-900 dark:text-white font-medium">Email</p>
-                    <p className="text-gray-600 dark:text-gray-300">suyash.zinjurke@gmail.com</p>
+                    <p className="text-gray-600 dark:text-gray-300">zinjurke77h@gmail.com</p>
                   </div>
                 </div>
                 
@@ -78,7 +78,7 @@ export const Contact: React.FC = () => {
                   </div>
                   <div>
                     <p className="text-gray-900 dark:text-white font-medium">Phone</p>
-                    <p className="text-gray-600 dark:text-gray-300">+91 98765 43210</p>
+                    <p className="text-gray-600 dark:text-gray-300">+91 7028921574</p>
                   </div>
                 </div>
                 

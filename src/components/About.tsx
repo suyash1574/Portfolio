@@ -42,7 +42,7 @@ export const About: React.FC = () => {
               <div className="inline-flex items-center space-x-2 bg-gradient-to-r from-orange-100 to-indigo-100 dark:from-orange-900/30 dark:to-indigo-900/30 px-4 py-2 rounded-full border border-orange-200 dark:border-orange-800/50">
                 <Users className="w-4 h-4 text-orange-600 dark:text-orange-400" />
                 <span className="text-orange-600 dark:text-orange-400 font-medium text-sm">
-                  Engineering Graduate • AI Enthusiast • Future Civil Servant
+                  Engineering Graduate • AI Enthusiast • Future Officer
                 </span>
               </div>
               
@@ -55,21 +55,20 @@ export const About: React.FC = () => {
             <div className="prose prose-lg max-w-none text-gray-600 dark:text-gray-300 space-y-6">
               <p className="text-lg leading-relaxed">
                 My journey began with a simple question: <em>"How can technology serve humanity better?"</em> 
-                This curiosity evolved into a passion for <span className="font-semibold text-orange-600 dark:text-orange-400">Artificial Intelligence</span> 
+                This curiosity evolved into a passion for <span className="font-semibold text-orange-600 dark:text-orange-400">Artificial Intelligence </span> 
                 and its transformative potential in solving real-world challenges.
               </p>
               
               <p className="text-lg leading-relaxed">
                 As a Computer Science graduate, I've witnessed firsthand how AI can revolutionize industries. 
-                But technology alone isn't enough. Guided by <span className="font-semibold text-orange-600 dark:text-orange-400">Dharmic principles</span> 
+                But technology alone isn't enough. Guided by <span className="font-semibold text-orange-600 dark:text-orange-400">Perfectness </span> 
                 and the philosophy of <em>"Seva Paramo Dharma"</em> (Service is the highest duty), I'm preparing 
                 for the UPSC Civil Services to channel my technical expertise into meaningful public service.
               </p>
 
               <div className="bg-gradient-to-r from-orange-50 to-indigo-50 dark:from-orange-900/20 dark:to-indigo-900/20 p-6 rounded-2xl border border-orange-100 dark:border-orange-800/30">
                 <p className="text-lg font-medium text-gray-800 dark:text-gray-200 italic">
-                  "Whether I'm developing AI models, studying constitutional frameworks, or reflecting on the 
-                  Bhagavad Gita's teachings, my approach remains constant: excellence in service to something 
+                  "Whether I'm developing AI models, studying constitutional frameworks, or doing any work , my approach remains constant: excellence in service to something 
                   greater than myself."
                 </p>
               </div>
@@ -107,8 +106,8 @@ export const About: React.FC = () => {
                     <Heart className="w-6 h-6 text-white" />
                   </div>
                   <div>
-                    <h3 className="font-bold text-gray-900 dark:text-white text-lg">Dharmic Values</h3>
-                    <p className="text-sm text-green-600 dark:text-green-400 font-medium">Ancient wisdom</p>
+                    <h3 className="font-bold text-gray-900 dark:text-white text-lg">Self Reliable</h3>
+                    <p className="text-sm text-green-600 dark:text-green-400 font-medium">Self wisdom</p>
                   </div>
                 </div>
               </div>

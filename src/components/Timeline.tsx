@@ -97,7 +97,7 @@ export const Timeline: React.FC = () => {
             <h3 className="text-2xl font-bold mb-4">Vision 2030</h3>
             <p className="text-lg opacity-90 max-w-3xl mx-auto">
               To bridge the gap between technology and governance, serving as a civil servant who 
-              leverages AI for policy-making, while fostering dharmic leadership in public administration.
+              leverages AI for policy-making, while fostering leadership in public administration.
             </p>
           </div>
         </div>

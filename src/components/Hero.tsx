@@ -52,9 +52,9 @@ export const Hero: React.FC = () => {
               <span className="block bg-gradient-to-r from-gray-900 via-orange-600 to-indigo-600 dark:from-white dark:via-orange-400 dark:to-indigo-400 bg-clip-text text-transparent animate-gradient-x">
                 Engineering Logic.
               </span>
-              <span className="block text-orange-600 dark:text-orange-400 animate-fade-in-up delay-300">
+              {/* <span className="block text-orange-600 dark:text-orange-400 animate-fade-in-up delay-300">
                 Dharma Soul.
-              </span>
+              </span> */}
               <span className="block bg-gradient-to-r from-indigo-600 to-purple-600 dark:from-indigo-400 dark:to-purple-400 bg-clip-text text-transparent animate-fade-in-up delay-500">
                 AI Vision.
               </span>
@@ -101,18 +101,22 @@ export const Hero: React.FC = () => {
           </div>
 
           {/* Stats Section */}
-          <div className="grid grid-cols-3 gap-8 max-w-2xl mx-auto mb-12 animate-fade-in-up delay-1200">
+          <div className="grid grid-cols-4 gap-8 max-w-2xl mx-auto mb-12 animate-fade-in-up delay-1200">
             <div className="text-center">
-              <div className="text-3xl font-bold text-orange-600 dark:text-orange-400 mb-2">15+</div>
+              <div className="text-3xl font-bold text-orange-600 dark:text-orange-400 mb-2">10+</div>
               <div className="text-sm text-gray-600 dark:text-gray-300 font-medium">AI Projects</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-indigo-600 dark:text-indigo-400 mb-2">3+</div>
+              <div className="text-3xl font-bold text-indigo-600 dark:text-indigo-400 mb-2">Beginner</div>
               <div className="text-sm text-gray-600 dark:text-gray-300 font-medium">Years Experience</div>
             </div>
             <div className="text-center">
               <div className="text-3xl font-bold text-green-600 dark:text-green-400 mb-2">2025</div>
               <div className="text-sm text-gray-600 dark:text-gray-300 font-medium">UPSC Target</div>
+            </div>
+            <div className="text-center">
+              <div className="text-3xl font-bold text-green-600 dark:text-blue-400 mb-2">2 Times</div>
+              <div className="text-sm text-gray-600 dark:text-gray-300 font-medium">AFCAT Cleared</div>
             </div>
           </div>
 
