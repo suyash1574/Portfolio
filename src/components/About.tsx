@@ -1,4 +1,5 @@
 import React from 'react';
+import heroimg from '../components/hero.jpg';
 import { BookOpen, Target, Heart, Zap, Award, Users, Lightbulb, Shield } from 'lucide-react';
 
 export const About: React.FC = () => {
@@ -15,7 +16,7 @@ export const About: React.FC = () => {
             <div className="relative z-10 transform group-hover:scale-105 transition-transform duration-500">
               <div className="relative">
                 <img
-                  src="project-bolt-sb1-7bbta3p3\project\src\components\hero.jpg"
+                  src={heroimg}
                   alt="Suyash Zinjurke"
                   className="w-full max-w-md mx-auto rounded-3xl shadow-2xl border-4 border-white dark:border-gray-700"
                 />
