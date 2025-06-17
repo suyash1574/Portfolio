@@ -115,20 +115,7 @@ export const timeline: TimelineEvent[] = [
     description: 'Completed Bachelor of Engineering with distinction',
     type: 'education'
   },
-  {
-    id: '7',
-    year: '2026',
-    title: 'UPSC Prelims',
-    description: 'Target: Clear UPSC Prelims and advance to Mains',
-    type: 'goal'
-  },
-  {
-    id: '8',
-    year: '2026',
-    title: 'Civil Services Officer',
-    description: 'Vision: Become an IAS/IPS officer and serve the nation',
-    type: 'goal'
-  }
+
 ];
 
 export const blogPosts: BlogPost[] = [
