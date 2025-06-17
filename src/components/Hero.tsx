@@ -1,6 +1,8 @@
 import React from 'react';
 import { Download, Mail, ArrowRight, Sparkles, Code, Brain, Target } from 'lucide-react';
 import { Button } from './ui/Button';
+import resumePdf from '../components/resume.pdf'; // adjust path accordingly
+
 
 export const Hero: React.FC = () => {
   const scrollToSection = (href: string) => {
@@ -84,11 +86,14 @@ export const Hero: React.FC = () => {
 
           {/* Enhanced CTA Buttons */}
           <div className="flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-8 mb-16 animate-fade-in-up delay-1000">
-            <Button size="lg" className="w-full sm:w-auto group relative overflow-hidden">
-              <div className="absolute inset-0 bg-gradient-to-r from-orange-600 to-orange-700 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left"></div>
-              <Download className="w-5 h-5 mr-2 relative z-10 group-hover:animate-bounce" />
-              <span className="relative z-10">Download Resume</span>
-            </Button>
+            <a href={resumePdf} download="Suyash-Zinjurke-Resume.pdf">
+              <Button size="lg" className="w-full sm:w-auto group relative overflow-hidden">
+                <div className="absolute inset-0 bg-gradient-to-r from-orange-600 to-orange-700 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left"></div>
+                <Download className="w-5 h-5 mr-2 relative z-10 group-hover:animate-bounce" />
+                <span className="relative z-10">Download Resume</span>
+              </Button>
+            </a>
+
             <Button 
               variant="outline" 
               size="lg" 
