@@ -46,7 +46,7 @@ export const skillCategories: SkillCategory[] = [
       { name: 'Python', level: 90 },
       { name: 'Machine Learning', level: 85 },
       { name: 'Power BI', level: 80 },
-      { name: 'React/TypeScript', level: 85 },
+      { name: 'React/TypeScript', level: 30 },
       { name: 'Data Analysis', level: 88 }
     ]
   },
@@ -54,9 +54,9 @@ export const skillCategories: SkillCategory[] = [
     category: 'AI Tools',
     skills: [
       { name: 'OpenAI API', level: 92 },
-      { name: 'LangChain', level: 85 },
+      { name: 'LangChain', level: 50 },
       { name: 'TensorFlow', level: 75 },
-      { name: 'Hugging Face', level: 80 },
+      { name: 'Hugging Face', level: 70 },
       { name: 'Prompt Engineering', level: 95 }
     ]
   },
@@ -65,7 +65,7 @@ export const skillCategories: SkillCategory[] = [
     skills: [
       { name: 'Leadership', level: 85 },
       { name: 'Discipline', level: 95 },
-      { name: 'Strategic Thinking', level: 88 },
+      { name: 'Strategic Thinking', level: 90 },
       { name: 'Public Speaking', level: 80 },
       { name: 'Time Management', level: 90 }
     ]
@@ -75,49 +75,49 @@ export const skillCategories: SkillCategory[] = [
 export const timeline: TimelineEvent[] = [
   {
     id: '1',
-    year: '2018',
+    year: '2022',
     title: 'Higher Secondary Education',
     description: 'Completed 12th grade with focus on Science and Mathematics',
     type: 'education'
   },
   {
     id: '2',
-    year: '2019',
+    year: '2022',
     title: 'Started Engineering',
     description: 'Began Bachelor of Engineering with specialization in Computer Science',
     type: 'education'
   },
   {
     id: '3',
-    year: '2021',
+    year: '2023',
     title: 'AI & ML Discovery',
     description: 'Discovered passion for Artificial Intelligence and Machine Learning',
     type: 'achievement'
   },
   {
     id: '4',
-    year: '2022',
+    year: '2024',
     title: 'First AI Project',
     description: 'Built first machine learning project - Predictive Analytics Dashboard',
     type: 'achievement'
   },
   {
     id: '5',
-    year: '2023',
+    year: '2024',
     title: 'UPSC Preparation',
     description: 'Started serious preparation for UPSC Civil Services Examination',
     type: 'achievement'
   },
   {
     id: '6',
-    year: '2024',
+    year: '2026',
     title: 'Engineering Graduation',
     description: 'Completed Bachelor of Engineering with distinction',
     type: 'education'
   },
   {
     id: '7',
-    year: '2025',
+    year: '2026',
     title: 'UPSC Prelims',
     description: 'Target: Clear UPSC Prelims and advance to Mains',
     type: 'goal'
