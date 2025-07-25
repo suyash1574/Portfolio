@@ -13,7 +13,7 @@ export const Hero: React.FC = () => {
   };
 
   return (
-    <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden">
+    <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden pt-24">
       {/* Animated Background */}
       <div className="absolute inset-0 bg-gradient-to-br from-orange-50 via-white to-indigo-50 dark:from-gray-900 dark:via-gray-900 dark:to-indigo-900/20">
         <div className="absolute inset-0 bg-[url('data:image/svg+xml,%3Csvg%20width=%2260%22%20height=%2260%22%20viewBox=%220%200%2060%2060%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20fill=%22none%22%20fill-rule=%22evenodd%22%3E%3Cg%20fill=%22%23f97316%22%20fill-opacity=%220.05%22%3E%3Ccircle%20cx=%2230%22%20cy=%2230%22%20r=%224%22/%3E%3C/g%3E%3C/g%3E%3C/svg%3E')] opacity-40 animate-pulse"></div>
@@ -44,7 +44,7 @@ export const Hero: React.FC = () => {
           <div className="inline-flex items-center space-x-2 bg-gradient-to-r from-orange-100 to-indigo-100 dark:from-orange-900/30 dark:to-indigo-900/30 px-6 py-3 rounded-full mb-8 border border-orange-200 dark:border-orange-800/50 animate-fade-in-up shadow-lg backdrop-blur-sm">
             <Sparkles className="w-5 h-5 text-orange-600 dark:text-orange-400 animate-spin-slow" />
             <span className="text-orange-600 dark:text-orange-400 font-semibold text-sm tracking-wide">
-              AI Innovator • Future Civil Servant • Tech Visionary
+              AI Innovator • GenAI Expert • Tech Visionary
             </span>
           </div>
 
