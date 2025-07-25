@@ -81,7 +81,7 @@ export const Blog: React.FC = () => {
             Stay Updated
           </h3>
           <p className="text-gray-600 dark:text-gray-300 mb-6 max-w-2xl mx-auto">
-            Subscribe to receive insights on AI, UPSC preparation, and the journey of balancing 
+            Subscribe to receive insights on AI,  GEN AI , Agentic AI, and the journey of balancing 
             technology with dharmic values.
           </p>
           

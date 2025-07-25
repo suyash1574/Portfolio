@@ -115,10 +115,10 @@ export const Hero: React.FC = () => {
               <div className="text-3xl font-bold text-indigo-600 dark:text-indigo-400 mb-2">Beginner</div>
               <div className="text-sm text-gray-600 dark:text-gray-300 font-medium">Years Experience</div>
             </div>
-            <div className="text-center">
+            {/* <div className="text-center">
               <div className="text-3xl font-bold text-green-600 dark:text-green-400 mb-2">2025</div>
               <div className="text-sm text-gray-600 dark:text-gray-300 font-medium">UPSC Target</div>
-            </div>
+            </div> */}
             <div className="text-center">
               <div className="text-3xl font-bold text-green-600 dark:text-blue-400 mb-2">2 Times</div>
               <div className="text-sm text-gray-600 dark:text-gray-300 font-medium">AFCAT Cleared</div>

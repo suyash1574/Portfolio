@@ -63,7 +63,7 @@ export const About: React.FC = () => {
                 As a Computer Science graduate, I've witnessed firsthand how AI can revolutionize industries. 
                 But technology alone isn't enough. Guided by <span className="font-semibold text-orange-600 dark:text-orange-400">Perfectness </span> 
                 and the philosophy of <em>"Seva Paramo Dharma"</em> (Service is the highest duty), I'm preparing 
-                for the UPSC Civil Services to channel my technical expertise into meaningful public service.
+                for the  Defence to channel my technical expertise into meaningful Defence service.
               </p>
 
               <div className="bg-gradient-to-r from-orange-50 to-indigo-50 dark:from-orange-900/20 dark:to-indigo-900/20 p-6 rounded-2xl border border-orange-100 dark:border-orange-800/30">

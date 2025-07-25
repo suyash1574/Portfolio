@@ -77,7 +77,7 @@ export const Quote: React.FC = () => {
             
             <p className="text-white/95 text-lg md:text-xl leading-relaxed font-medium">
               This timeless wisdom from our ancient scriptures illuminates my path from engineering to public service. 
-              Every algorithm I code, every UPSC concept I master, every moment I spend in contemplation — 
+              Every algorithm I code, every Technical concept I master, every moment I spend in contemplation — 
               all are steps toward awakening my potential to serve humanity. The journey of 
               <span className="font-bold text-yellow-200"> dharma </span> 
               isn't just about personal achievement, but about rising to lift others as we ascend.
