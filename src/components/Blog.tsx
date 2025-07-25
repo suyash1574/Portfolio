@@ -15,8 +15,8 @@ export const Blog: React.FC = () => {
           </h2>
           <div className="w-20 h-1 bg-gradient-to-r from-orange-500 to-indigo-500 rounded-full mx-auto mb-4"></div>
           <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            Exploring the intersection of technology, spirituality, and public service through 
-            thoughtful articles and personal reflections.
+            Exploring the intersection of AI/ML, GenAI, and Agentic AI through 
+            technical articles and innovative insights.
           </p>
         </div>
 

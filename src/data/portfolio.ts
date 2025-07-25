@@ -104,8 +104,8 @@ export const timeline: TimelineEvent[] = [
   {
     id: '5',
     year: '2024',
-    title: 'UPSC Preparation',
-    description: 'Started serious preparation for UPSC Civil Services Examination',
+    title: 'Advanced AI Research',
+    description: 'Started research in advanced AI applications and deep learning',
     type: 'achievement'
   },
   {
@@ -121,17 +121,17 @@ export const timeline: TimelineEvent[] = [
 export const blogPosts: BlogPost[] = [
   {
     id: '1',
-    title: 'The Dharmic Path to Success in UPSC',
-    excerpt: 'How ancient wisdom guides modern preparation strategies for civil services',
+    title: 'GenAI: The Future of Software Development',
+    excerpt: 'How generative AI is revolutionizing the way we build software',
     date: '2024-01-15',
     readTime: '5 min read',
-    category: 'UPSC',
+    category: 'AI',
     imageUrl: 'https://images.pexels.com/photos/1904769/pexels-photo-1904769.jpeg?auto=compress&cs=tinysrgb&w=800'
   },
   {
     id: '2',
-    title: 'AI in Governance: A Future Perspective',
-    excerpt: 'Exploring how artificial intelligence can transform public administration',
+    title: 'Agentic AI: Building Autonomous Systems',
+    excerpt: 'Exploring the development of self-directed AI agents and their applications',
     date: '2024-01-10',
     readTime: '7 min read',
     category: 'AI',

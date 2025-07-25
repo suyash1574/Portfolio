@@ -42,12 +42,12 @@ export const About: React.FC = () => {
               <div className="inline-flex items-center space-x-2 bg-gradient-to-r from-orange-100 to-indigo-100 dark:from-orange-900/30 dark:to-indigo-900/30 px-4 py-2 rounded-full border border-orange-200 dark:border-orange-800/50">
                 <Users className="w-4 h-4 text-orange-600 dark:text-orange-400" />
                 <span className="text-orange-600 dark:text-orange-400 font-medium text-sm">
-                  Engineering Graduate • AI Enthusiast • Future Officer
+                  Engineering Graduate • AI Enthusiast • Tech Innovator
                 </span>
               </div>
               
               <h2 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-gray-900 to-orange-600 dark:from-white dark:to-orange-400 bg-clip-text text-transparent leading-tight">
-                Bridging Technology & Service
+                Innovating Through Technology
               </h2>
               <div className="w-24 h-1.5 bg-gradient-to-r from-orange-500 to-indigo-500 rounded-full"></div>
             </div>

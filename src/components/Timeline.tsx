@@ -38,8 +38,8 @@ export const Timeline: React.FC = () => {
           </h2>
           <div className="w-20 h-1 bg-gradient-to-r from-orange-500 to-indigo-500 rounded-full mx-auto mb-4"></div>
           <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            From engineering student to AI enthusiast to UPSC aspirant — a timeline of growth, 
-            learning, and purposeful progression.
+            From engineering student to AI enthusiast to tech innovator — a timeline of growth, 
+            learning, and technological progression.
           </p>
         </div>
 
@@ -96,8 +96,8 @@ export const Timeline: React.FC = () => {
             <Target className="w-12 h-12 mx-auto mb-4" />
             <h3 className="text-2xl font-bold mb-4">Vision 2030</h3>
             <p className="text-lg opacity-90 max-w-3xl mx-auto">
-              To bridge the gap between technology and governance, serving as a civil servant who 
-              leverages AI for policy-making, while fostering leadership in public administration.
+              To push the boundaries of artificial intelligence and software innovation, leading breakthrough 
+              technological solutions while fostering technical leadership and mentoring future innovators.
             </p>
           </div>
         </div>

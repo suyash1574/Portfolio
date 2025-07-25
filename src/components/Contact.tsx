@@ -48,8 +48,8 @@ export const Contact: React.FC = () => {
           </h2>
           <div className="w-20 h-1 bg-gradient-to-r from-orange-500 to-indigo-500 rounded-full mx-auto mb-4"></div>
           <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            Whether you want to discuss AI, UPSC preparation, potential collaborations, 
-            or just have a thoughtful conversation, I'd love to hear from you.
+            Whether you want to discuss AI, technology innovation, potential collaborations, 
+            or explore exciting opportunities, I'd love to hear from you.
           </p>
         </div>
 

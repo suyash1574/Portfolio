@@ -16,7 +16,7 @@ export const Footer: React.FC = () => {
             </div>
             <p className="text-gray-400 mb-4">
               Engineering logic, AI vision. Building bridges between 
-              technology and service.
+              technology and innovation.
             </p>
           </div>
 
